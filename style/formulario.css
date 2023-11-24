@@ -78,3 +78,7 @@
 	padding:10px;
 	border:2px solid black;
 }
+
+#palabra {
+	text-transform: uppercase;
+}
